@@ -322,6 +322,7 @@
 -r:"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.dll"
 -r:"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll"
 -r:"/home/mrrobot/dev/ANOMALY - Autonomous Network Of Modelled Lifeforms and Yoked-Organisms/Client/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/home/mrrobot/dev/ANOMALY - Autonomous Network Of Modelled Lifeforms and Yoked-Organisms/Client/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.TestRunner.ref.dll"
