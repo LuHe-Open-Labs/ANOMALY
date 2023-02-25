@@ -302,7 +302,24 @@
         294,
         295,
         296,
-        297
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 0
@@ -827,9 +844,6 @@
         237,
         241,
         243,
-        244,
-        245,
-        246,
         247,
         248,
         249,
@@ -840,7 +854,6 @@
         254,
         255,
         256,
-        257,
         258,
         259,
         260,
@@ -880,7 +893,24 @@
         294,
         295,
         296,
-        297
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313,
+        314
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 5
@@ -18060,6 +18090,705 @@
       "DebugActionIndex": 243
     },
     {
+      "Annotation": "WriteText Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.AdditionalFile.txt",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "/home/mrrobot/dev/ANOMALY - Autonomous Network Of Modelled Lifeforms and Yoked-Organisms/Client",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.AdditionalFile.txt"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 244
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.rsp",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "-target:library\n-out:\"Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll\"\n-refout:\"Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.ref.dll\"\n-define:UNITY_2021_3_19\n-define:UNITY_2021_3\n-define:UNITY_2021\n-define:UNITY_5_3_OR_NEWER\n-define:UNITY_5_4_OR_NEWER\n-define:UNITY_5_5_OR_NEWER\n-define:UNITY_5_6_OR_NEWER\n-define:UNITY_2017_1_OR_NEWER\n-define:UNITY_2017_2_OR_NEWER\n-define:UNITY_2017_3_OR_NEWER\n-define:UNITY_2017_4_OR_NEWER\n-define:UNITY_2018_1_OR_NEWER\n-define:UNITY_2018_2_OR_NEWER\n-define:UNITY_2018_3_OR_NEWER\n-define:UNITY_2018_4_OR_NEWER\n-define:UNITY_2019_1_OR_NEWER\n-define:UNITY_2019_2_OR_NEWER\n-define:UNITY_2019_3_OR_NEWER\n-define:UNITY_2019_4_OR_NEWER\n-define:UNITY_2020_1_OR_NEWER\n-define:UNITY_2020_2_OR_NEWER\n-define:UNITY_2020_3_OR_NEWER\n-define:UNITY_2021_1_OR_NEWER\n-define:UNITY_2021_2_OR_NEWER\n-define:UNITY_2021_3_OR_NEWER\n-define:PLATFORM_ARCH_64\n-define:UNITY_64\n-define:UNITY_INCLUDE_TESTS\n-define:ENABLE_AUDIO\n-define:ENABLE_CACHING\n-define:ENABLE_CLOTH\n-define:ENABLE_MICROPHONE\n-define:ENABLE_MULTIPLE_DISPLAYS\n-define:ENABLE_PHYSICS\n-define:ENABLE_TEXTURE_STREAMING\n-define:ENABLE_VIRTUALTEXTURING\n-define:ENABLE_UNET\n-define:ENABLE_LZMA\n-define:ENABLE_UNITYEVENTS\n-define:ENABLE_VR\n-define:ENABLE_WEBCAM\n-define:ENABLE_UNITYWEBREQUEST\n-define:ENABLE_WWW\n-define:ENABLE_CLOUD_SERVICES\n-define:ENABLE_CLOUD_SERVICES_COLLAB\n-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS\n-define:ENABLE_CLOUD_SERVICES_ADS\n-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST\n-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING\n-define:ENABLE_CLOUD_SERVICES_PURCHASING\n-define:ENABLE_CLOUD_SERVICES_ANALYTICS\n-define:ENABLE_CLOUD_SERVICES_UNET\n-define:ENABLE_CLOUD_SERVICES_BUILD\n-define:ENABLE_CLOUD_LICENSE\n-define:ENABLE_EDITOR_HUB_LICENSE\n-define:ENABLE_WEBSOCKET_CLIENT\n-define:ENABLE_DIRECTOR_AUDIO\n-define:ENABLE_DIRECTOR_TEXTURE\n-define:ENABLE_MANAGED_JOBS\n-define:ENABLE_MANAGED_TRANSFORM_JOBS\n-define:ENABLE_MANAGED_ANIMATION_JOBS\n-define:ENABLE_MANAGED_AUDIO_JOBS\n-define:ENABLE_MANAGED_UNITYTLS\n-define:INCLUDE_DYNAMIC_GI\n-define:ENABLE_SCRIPTING_GC_WBARRIERS\n-define:PLATFORM_SUPPORTS_MONO\n-define:RENDER_SOFTWARE_CURSOR\n-define:ENABLE_VIDEO\n-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING\n-define:PLATFORM_STANDALONE\n-define:TEXTCORE_1_0_OR_NEWER\n-define:PLATFORM_STANDALONE_LINUX\n-define:UNITY_STANDALONE_LINUX\n-define:UNITY_STANDALONE\n-define:UNITY_STANDALONE_LINUX_API\n-define:ENABLE_RUNTIME_GI\n-define:ENABLE_MOVIES\n-define:ENABLE_NETWORK\n-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION\n-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT\n-define:ENABLE_CLUSTER_SYNC\n-define:ENABLE_CLUSTERINPUT\n-define:ENABLE_SPATIALTRACKING\n-define:ENABLE_MODULAR_UNITYENGINE_ASSEMBLIES\n-define:ENABLE_WEBSOCKET_HOST\n-define:ENABLE_MONO\n-define:NET_STANDARD_2_0\n-define:NET_STANDARD\n-define:NET_STANDARD_2_1\n-define:NETSTANDARD\n-define:NETSTANDARD2_1\n-define:ENABLE_PROFILER\n-define:DEBUG\n-define:TRACE\n-define:UNITY_ASSERTIONS\n-define:UNITY_EDITOR\n-define:UNITY_EDITOR_64\n-define:UNITY_EDITOR_LINUX\n-define:ENABLE_UNITY_COLLECTIONS_CHECKS\n-define:ENABLE_BURST_AOT\n-define:UNITY_TEAM_LICENSE\n-define:UNITY_PRO_LICENSE\n-define:ENABLE_CUSTOM_RENDER_TEXTURE\n-define:ENABLE_DIRECTOR\n-define:ENABLE_LOCALIZATION\n-define:ENABLE_SPRITES\n-define:ENABLE_TERRAIN\n-define:ENABLE_TILEMAP\n-define:ENABLE_TIMELINE\n-define:ENABLE_LEGACY_INPUT_MANAGER\n-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER\n-define:CSHARP_7_OR_LATER\n-define:CSHARP_7_3_OR_NEWER\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll\"\n-r:\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll\"\n-r:\"/home/mrrobot/dev/ANOMALY - Autonomous Network Of Modelled Lifeforms and Yoked-Organisms/Client/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll\"\n-r:\"/home/mrrobot/dev/ANOMALY - Autonomous Network Of Modelled Lifeforms and Yoked-Organisms/Client/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.PlasticSCM.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.Rider.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.TextMeshPro.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.TextMeshPro.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.Timeline.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.Timeline.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VSCode.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Core.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Flow.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Flow.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.State.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.State.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualStudio.Editor.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll\"\n-r:\"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll\"\n\"Assets/Client.cs\"\n-langversion:9.0\n\n/deterministic\n/optimize+\n/debug:portable\n/nologo\n/RuntimeMetadataVersion:v4.0.30319\n\n/nowarn:0169\n/nowarn:0649\n/nowarn:1701\n/nowarn:1702\n/utf8output\n/preferreduilang:en-US\n\n\n/additionalfile:\"Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.AdditionalFile.txt\"",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.rsp"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 245
+    },
+    {
+      "Annotation": "Csc Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll (+2 others)",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetCoreRuntime/dotnet\" exec \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.rsp\"",
+      "Inputs": [
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.PackageManagerUIModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIServiceModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
+        "/home/mrrobot/dev/ANOMALY - Autonomous Network Of Modelled Lifeforms and Yoked-Organisms/Client/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll",
+        "/home/mrrobot/dev/ANOMALY - Autonomous Network Of Modelled Lifeforms and Yoked-Organisms/Client/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.PlasticSCM.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.Rider.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.TextMeshPro.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.TextMeshPro.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.Timeline.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.Timeline.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VSCode.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Core.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Core.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Flow.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Flow.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.State.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.State.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualStudio.Editor.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll",
+        "Assets/Client.cs",
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.rsp",
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.AdditionalFile.txt"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll",
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.pdb",
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.ref.dll"
+      ],
+      "ToBuildDependencies": [
+        92,
+        111,
+        118,
+        124,
+        129,
+        134,
+        144,
+        149,
+        154,
+        159,
+        164,
+        169,
+        174,
+        185,
+        193,
+        199,
+        205,
+        211,
+        216,
+        223,
+        228,
+        235,
+        240,
+        244,
+        245
+      ],
+      "FrontendResponseFiles": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.rsp"
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [
+        {
+          "Key": "DOTNET_MULTILEVEL_LOOKUP",
+          "Value": "0"
+        }
+      ],
+      "DebugActionIndex": 246
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_24F40B351B9ACD85.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_24F40B351B9ACD85.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_24F40B351B9ACD85.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        118
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 247
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_FC7FE7C2525DF555.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_FC7FE7C2525DF555.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_FC7FE7C2525DF555.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        124
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 248
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9145F68A59D35CE5.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9145F68A59D35CE5.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.Rider.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.Rider.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9145F68A59D35CE5.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        134
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 249
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.ref.dll_4F7EA18A8F1A3B43.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.ref.dll_4F7EA18A8F1A3B43.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.ref.dll_4F7EA18A8F1A3B43.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        185
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 250
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_B8A961BBD8ABE0FC.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_B8A961BBD8ABE0FC.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.TextMeshPro.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.TextMeshPro.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_B8A961BBD8ABE0FC.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        193
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 251
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_53B6806BAD4EBBBC.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_53B6806BAD4EBBBC.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.Timeline.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.Timeline.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_53B6806BAD4EBBBC.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        199
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 252
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_D4305E79DE2C8083.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_D4305E79DE2C8083.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.VSCode.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VSCode.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_D4305E79DE2C8083.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        164
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 253
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.SettingsProvider.Editor.ref.dll_B8324D455948C852.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.SettingsProvider.Editor.ref.dll_B8324D455948C852.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.SettingsProvider.Editor.ref.dll_B8324D455948C852.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        228
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 254
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_F54BA3F421A71E21.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_F54BA3F421A71E21.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualScripting.Shared.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_F54BA3F421A71E21.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        240
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 255
+    },
+    {
+      "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_45A2A186C05004D7.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_45A2A186C05004D7.mvfrm\" \"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualStudio.Editor.ref.dll\"",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Unity.VisualStudio.Editor.ref.dll",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_45A2A186C05004D7.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        174
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 256
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_24F40B351B9ACD85.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_FC7FE7C2525DF555.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_F0D9BA1F3F167740.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9145F68A59D35CE5.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll_74E155EA2BEE38FD.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll_3B45F137F1F80EEA.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.ref.dll_4F7EA18A8F1A3B43.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_B8A961BBD8ABE0FC.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_8DB7A3E3632A4E05.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_53B6806BAD4EBBBC.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_5AB3C2EE9968C745.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_D4305E79DE2C8083.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.Editor.ref.dll_EC0FF0FDA4803327.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.ref.dll_FA56F406C264152A.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.Editor.ref.dll_6940D9ACB35EBE68.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.ref.dll_4167D45D446D89D9.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.SettingsProvider.Editor.ref.dll_B8324D455948C852.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_F54BA3F421A71E21.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.Editor.ref.dll_E3BEEDFEAAF21AA5.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.ref.dll_00B85F0613CA4DCC.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_45A2A186C05004D7.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_452FB8EBD860BCAB.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_01958F46DE82E516.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_1DDD7DE1F14ABD4B.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.DeviceSimulatorModule.dll_A463C475F63CFF66.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.DiagnosticsModule.dll_BD3E38E580DDE834.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.GraphViewModule.dll_008DBE1105600D8B.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.PackageManagerUIModule.dll_C300B9ED47EA6AE7.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.QuickSearchModule.dll_484DB9F2D9B4E48D.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.SceneTemplateModule.dll_482442E01C12E6AE.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.TextCoreFontEngineModule.dll_00C45AA7B1467E69.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.TextCoreTextEngineModule.dll_48AC911940CA3787.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.UIBuilderModule.dll_55166B2D781886BF.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.UIElementsModule.dll_F6CBADA0836FC6A7.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.UIElementsSamplesModule.dll_0E5EEBF63175A236.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.UIServiceModule.dll_8E087C90614FD6D9.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.UnityConnectModule.dll_0AE507332A9B1181.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEditor.dll_0F47EA8830F64A5A.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.AIModule.dll_5A17E11F3B2F503F.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.AccessibilityModule.dll_7AC9AE771C890E4B.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.AndroidJNIModule.dll_75149673CC8F357D.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.AnimationModule.dll_CF133A39DFBCE231.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_8C36ECE43C1B997F.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_234311364C2CCEE3.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_8A2B6E312649ADC7.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.ClusterInputModule.dll_8A817C48DC22E447.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.ClusterRendererModule.dll_AA1086E765F80CEA.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_40FE513499502876.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_DF22D778EA51A1CE.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.DSPGraphModule.dll_DE59972CAD12B534.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.DirectorModule.dll_D90835C33AB1E413.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.GIModule.dll_F2542A2CD6DE3859.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.GameCenterModule.dll_9F61E08E92D0266E.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.GridModule.dll_1E6F6D22B1A4BE6D.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.HotReloadModule.dll_505BF83FBAEFFDB3.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.IMGUIModule.dll_5BA2B09D125E62C4.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.ImageConversionModule.dll_16028497E81CC4DE.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.InputLegacyModule.dll_1D7C0802D40D4F70.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.InputModule.dll_89B8D8E6C264F387.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_DAE137B31BC46ED5.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_C8CE469B739ED740.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_323520C558632D5C.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.PerformanceReportingModule.dll_F181074D6C61B335.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.Physics2DModule.dll_1BB92A2A80B9D9C6.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.PhysicsModule.dll_C83E62E7F2718414.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.ProfilerModule.dll_0B4E6EF9D40B6B20.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_89E6A8133813D68F.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.ScreenCaptureModule.dll_F4C8E53830309B37.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.SharedInternalsModule.dll_9A13C36D5F4AC02E.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.SpriteMaskModule.dll_888E531EB43FBBE8.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_A5981A3EF1BDD189.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_83A8278A2F44996F.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_60533BD37A97977D.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_F33BB9808287A3FB.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.TLSModule.dll_FA0604F22B9EAFE8.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_E284DE56C82FCD02.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_32AFC99871A627E9.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_7F23D5FAC4443D34.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_C70C0C6C53C7F652.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_1E085742E7681B2C.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.TilemapModule.dll_818145D7DFECAE0B.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UIElementsModule.dll_F77A1AE885B3DFF2.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UIElementsNativeModule.dll_0D7A6E82B962DB09.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UIModule.dll_558B7F4C977655EB.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UNETModule.dll_D3A4991DE65F1DEF.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UmbraModule.dll_9E17BD4ED9537A56.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsCommonModule.dll_8CBFC491864A5193.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsModule.dll_51D4918F048A7F58.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityConnectModule.dll_F8448B422523122C.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityCurlModule.dll_022FDB6B4FD0D41E.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityTestProtocolModule.dll_CA21A1E88B70F78C.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAssetBundleModule.dll_5E215F15E8B06429.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAudioModule.dll_697D5B2BF2CC7DCD.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_27A18C41F3115F5D.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_1FB9F61CD2977F42.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_91CE51C84387B2BE.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_7AE49D61020C1955.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_A85DA5D23930DB63.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_50CB2F42B4DBB3AE.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_484C95A10EBEEA88.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.VirtualTexturingModule.dll_320722F192115B94.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_B74D2C5D2A86A6DF.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_DB1C68D6C26B28C1.mvfrm\nLibrary/Bee/artifacts/mvdfrm/UnityEngine.dll_41EC31608F69D73F.mvfrm\nLibrary/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_E8DB289B54586230.mvfrm",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 257
+    },
+    {
+      "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll.mvfrm",
+      "Action": "\"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/netcorerun/netcorerun\" \"/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll.mvfrm\" \"@Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp\"",
+      "Inputs": [
+        "Library/Bee/artifacts/mvdfrm/Unity.EditorCoroutines.Editor.ref.dll_24F40B351B9ACD85.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.Performance.Profile-Analyzer.Editor.ref.dll_FC7FE7C2525DF555.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_F0D9BA1F3F167740.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.Rider.Editor.ref.dll_9145F68A59D35CE5.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll_74E155EA2BEE38FD.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll_3B45F137F1F80EEA.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.TestTools.CodeCoverage.Editor.ref.dll_4F7EA18A8F1A3B43.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.Editor.ref.dll_B8A961BBD8ABE0FC.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.TextMeshPro.ref.dll_8DB7A3E3632A4E05.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.Timeline.Editor.ref.dll_53B6806BAD4EBBBC.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_5AB3C2EE9968C745.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VSCode.Editor.ref.dll_D4305E79DE2C8083.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.Editor.ref.dll_EC0FF0FDA4803327.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Core.ref.dll_FA56F406C264152A.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.Editor.ref.dll_6940D9ACB35EBE68.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Flow.ref.dll_4167D45D446D89D9.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.SettingsProvider.Editor.ref.dll_B8324D455948C852.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_F54BA3F421A71E21.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.Editor.ref.dll_E3BEEDFEAAF21AA5.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.State.ref.dll_00B85F0613CA4DCC.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualStudio.Editor.ref.dll_45A2A186C05004D7.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_452FB8EBD860BCAB.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_01958F46DE82E516.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_1DDD7DE1F14ABD4B.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.DeviceSimulatorModule.dll_A463C475F63CFF66.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.DiagnosticsModule.dll_BD3E38E580DDE834.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.GraphViewModule.dll_008DBE1105600D8B.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.PackageManagerUIModule.dll_C300B9ED47EA6AE7.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.QuickSearchModule.dll_484DB9F2D9B4E48D.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.SceneTemplateModule.dll_482442E01C12E6AE.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.TextCoreFontEngineModule.dll_00C45AA7B1467E69.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.TextCoreTextEngineModule.dll_48AC911940CA3787.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UIBuilderModule.dll_55166B2D781886BF.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UIElementsModule.dll_F6CBADA0836FC6A7.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UIElementsSamplesModule.dll_0E5EEBF63175A236.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UIServiceModule.dll_8E087C90614FD6D9.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UnityConnectModule.dll_0AE507332A9B1181.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.dll_0F47EA8830F64A5A.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.AIModule.dll_5A17E11F3B2F503F.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.AccessibilityModule.dll_7AC9AE771C890E4B.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.AndroidJNIModule.dll_75149673CC8F357D.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.AnimationModule.dll_CF133A39DFBCE231.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.AssetBundleModule.dll_8C36ECE43C1B997F.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.AudioModule.dll_234311364C2CCEE3.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClothModule.dll_8A2B6E312649ADC7.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClusterInputModule.dll_8A817C48DC22E447.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.ClusterRendererModule.dll_AA1086E765F80CEA.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.CoreModule.dll_40FE513499502876.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.CrashReportingModule.dll_DF22D778EA51A1CE.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.DSPGraphModule.dll_DE59972CAD12B534.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.DirectorModule.dll_D90835C33AB1E413.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.GIModule.dll_F2542A2CD6DE3859.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.GameCenterModule.dll_9F61E08E92D0266E.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.GridModule.dll_1E6F6D22B1A4BE6D.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.HotReloadModule.dll_505BF83FBAEFFDB3.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.IMGUIModule.dll_5BA2B09D125E62C4.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.ImageConversionModule.dll_16028497E81CC4DE.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.InputLegacyModule.dll_1D7C0802D40D4F70.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.InputModule.dll_89B8D8E6C264F387.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_DAE137B31BC46ED5.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_C8CE469B739ED740.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_323520C558632D5C.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.PerformanceReportingModule.dll_F181074D6C61B335.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.Physics2DModule.dll_1BB92A2A80B9D9C6.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.PhysicsModule.dll_C83E62E7F2718414.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.ProfilerModule.dll_0B4E6EF9D40B6B20.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll_89E6A8133813D68F.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.ScreenCaptureModule.dll_F4C8E53830309B37.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.SharedInternalsModule.dll_9A13C36D5F4AC02E.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteMaskModule.dll_888E531EB43FBBE8.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.SpriteShapeModule.dll_A5981A3EF1BDD189.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.StreamingModule.dll_83A8278A2F44996F.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubstanceModule.dll_60533BD37A97977D.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.SubsystemsModule.dll_F33BB9808287A3FB.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.TLSModule.dll_FA0604F22B9EAFE8.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainModule.dll_E284DE56C82FCD02.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.TerrainPhysicsModule.dll_32AFC99871A627E9.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreFontEngineModule.dll_7F23D5FAC4443D34.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.TextCoreTextEngineModule.dll_C70C0C6C53C7F652.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.TextRenderingModule.dll_1E085742E7681B2C.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.TilemapModule.dll_818145D7DFECAE0B.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UIElementsModule.dll_F77A1AE885B3DFF2.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UIElementsNativeModule.dll_0D7A6E82B962DB09.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UIModule.dll_558B7F4C977655EB.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UNETModule.dll_D3A4991DE65F1DEF.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UmbraModule.dll_9E17BD4ED9537A56.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsCommonModule.dll_8CBFC491864A5193.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityAnalyticsModule.dll_51D4918F048A7F58.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityConnectModule.dll_F8448B422523122C.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityCurlModule.dll_022FDB6B4FD0D41E.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityTestProtocolModule.dll_CA21A1E88B70F78C.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAssetBundleModule.dll_5E215F15E8B06429.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestAudioModule.dll_697D5B2BF2CC7DCD.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestModule.dll_27A18C41F3115F5D.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestTextureModule.dll_1FB9F61CD2977F42.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UnityWebRequestWWWModule.dll_91CE51C84387B2BE.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.VFXModule.dll_7AE49D61020C1955.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.VRModule.dll_A85DA5D23930DB63.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.VehiclesModule.dll_50CB2F42B4DBB3AE.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.VideoModule.dll_484C95A10EBEEA88.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.VirtualTexturingModule.dll_320722F192115B94.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_B74D2C5D2A86A6DF.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_DB1C68D6C26B28C1.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.dll_41EC31608F69D73F.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_E8DB289B54586230.mvfrm",
+        "/home/mrrobot/Unity/Hub/Editor/2021.3.19f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp"
+      ],
+      "Outputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll.mvfrm"
+      ],
+      "ToBuildDependencies": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        98,
+        113,
+        119,
+        180,
+        187,
+        188,
+        194,
+        200,
+        206,
+        217,
+        218,
+        229,
+        230,
+        241,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 258
+    },
+    {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
@@ -18071,7 +18800,7 @@
       "ToBuildDependencies": [
         3
       ],
-      "DebugActionIndex": 244
+      "DebugActionIndex": 259
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.TestRunner.pdb",
@@ -18085,7 +18814,7 @@
       "ToBuildDependencies": [
         3
       ],
-      "DebugActionIndex": 245
+      "DebugActionIndex": 260
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.TestRunner.dll",
@@ -18099,7 +18828,7 @@
       "ToBuildDependencies": [
         103
       ],
-      "DebugActionIndex": 246
+      "DebugActionIndex": 261
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.TestRunner.pdb",
@@ -18113,7 +18842,7 @@
       "ToBuildDependencies": [
         103
       ],
-      "DebugActionIndex": 247
+      "DebugActionIndex": 262
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Rider.Editor.dll",
@@ -18127,7 +18856,7 @@
       "ToBuildDependencies": [
         134
       ],
-      "DebugActionIndex": 248
+      "DebugActionIndex": 263
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Rider.Editor.pdb",
@@ -18141,7 +18870,7 @@
       "ToBuildDependencies": [
         134
       ],
-      "DebugActionIndex": 249
+      "DebugActionIndex": 264
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VSCode.Editor.dll",
@@ -18155,7 +18884,7 @@
       "ToBuildDependencies": [
         164
       ],
-      "DebugActionIndex": 250
+      "DebugActionIndex": 265
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VSCode.Editor.pdb",
@@ -18169,7 +18898,7 @@
       "ToBuildDependencies": [
         164
       ],
-      "DebugActionIndex": 251
+      "DebugActionIndex": 266
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll",
@@ -18183,7 +18912,7 @@
       "ToBuildDependencies": [
         174
       ],
-      "DebugActionIndex": 252
+      "DebugActionIndex": 267
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb",
@@ -18197,7 +18926,7 @@
       "ToBuildDependencies": [
         174
       ],
-      "DebugActionIndex": 253
+      "DebugActionIndex": 268
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.UI.dll",
@@ -18211,7 +18940,7 @@
       "ToBuildDependencies": [
         92
       ],
-      "DebugActionIndex": 254
+      "DebugActionIndex": 269
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEngine.UI.pdb",
@@ -18225,7 +18954,7 @@
       "ToBuildDependencies": [
         92
       ],
-      "DebugActionIndex": 255
+      "DebugActionIndex": 270
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.UI.dll",
@@ -18239,7 +18968,7 @@
       "ToBuildDependencies": [
         111
       ],
-      "DebugActionIndex": 256
+      "DebugActionIndex": 271
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/UnityEditor.UI.pdb",
@@ -18253,7 +18982,7 @@
       "ToBuildDependencies": [
         111
       ],
-      "DebugActionIndex": 257
+      "DebugActionIndex": 272
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll",
@@ -18267,7 +18996,7 @@
       "ToBuildDependencies": [
         118
       ],
-      "DebugActionIndex": 258
+      "DebugActionIndex": 273
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.pdb",
@@ -18281,7 +19010,7 @@
       "ToBuildDependencies": [
         118
       ],
-      "DebugActionIndex": 259
+      "DebugActionIndex": 274
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll",
@@ -18295,7 +19024,7 @@
       "ToBuildDependencies": [
         124
       ],
-      "DebugActionIndex": 260
+      "DebugActionIndex": 275
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.pdb",
@@ -18309,7 +19038,7 @@
       "ToBuildDependencies": [
         124
       ],
-      "DebugActionIndex": 261
+      "DebugActionIndex": 276
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll",
@@ -18323,7 +19052,7 @@
       "ToBuildDependencies": [
         129
       ],
-      "DebugActionIndex": 262
+      "DebugActionIndex": 277
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb",
@@ -18337,7 +19066,7 @@
       "ToBuildDependencies": [
         129
       ],
-      "DebugActionIndex": 263
+      "DebugActionIndex": 278
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Settings.Editor.dll",
@@ -18351,7 +19080,7 @@
       "ToBuildDependencies": [
         139
       ],
-      "DebugActionIndex": 264
+      "DebugActionIndex": 279
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Settings.Editor.pdb",
@@ -18365,7 +19094,7 @@
       "ToBuildDependencies": [
         139
       ],
-      "DebugActionIndex": 265
+      "DebugActionIndex": 280
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll",
@@ -18379,7 +19108,7 @@
       "ToBuildDependencies": [
         144
       ],
-      "DebugActionIndex": 266
+      "DebugActionIndex": 281
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.pdb",
@@ -18393,7 +19122,7 @@
       "ToBuildDependencies": [
         144
       ],
-      "DebugActionIndex": 267
+      "DebugActionIndex": 282
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll",
@@ -18407,7 +19136,7 @@
       "ToBuildDependencies": [
         149
       ],
-      "DebugActionIndex": 268
+      "DebugActionIndex": 283
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.pdb",
@@ -18421,7 +19150,7 @@
       "ToBuildDependencies": [
         149
       ],
-      "DebugActionIndex": 269
+      "DebugActionIndex": 284
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.dll",
@@ -18435,7 +19164,7 @@
       "ToBuildDependencies": [
         154
       ],
-      "DebugActionIndex": 270
+      "DebugActionIndex": 285
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.pdb",
@@ -18449,7 +19178,7 @@
       "ToBuildDependencies": [
         154
       ],
-      "DebugActionIndex": 271
+      "DebugActionIndex": 286
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.dll",
@@ -18463,7 +19192,7 @@
       "ToBuildDependencies": [
         159
       ],
-      "DebugActionIndex": 272
+      "DebugActionIndex": 287
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.pdb",
@@ -18477,7 +19206,7 @@
       "ToBuildDependencies": [
         159
       ],
-      "DebugActionIndex": 273
+      "DebugActionIndex": 288
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Core.dll",
@@ -18491,7 +19220,7 @@
       "ToBuildDependencies": [
         169
       ],
-      "DebugActionIndex": 274
+      "DebugActionIndex": 289
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Core.pdb",
@@ -18505,7 +19234,7 @@
       "ToBuildDependencies": [
         169
       ],
-      "DebugActionIndex": 275
+      "DebugActionIndex": 290
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll",
@@ -18519,7 +19248,7 @@
       "ToBuildDependencies": [
         179
       ],
-      "DebugActionIndex": 276
+      "DebugActionIndex": 291
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb",
@@ -18533,7 +19262,7 @@
       "ToBuildDependencies": [
         179
       ],
-      "DebugActionIndex": 277
+      "DebugActionIndex": 292
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll",
@@ -18547,7 +19276,7 @@
       "ToBuildDependencies": [
         185
       ],
-      "DebugActionIndex": 278
+      "DebugActionIndex": 293
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.pdb",
@@ -18561,7 +19290,7 @@
       "ToBuildDependencies": [
         185
       ],
-      "DebugActionIndex": 279
+      "DebugActionIndex": 294
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll",
@@ -18575,7 +19304,7 @@
       "ToBuildDependencies": [
         193
       ],
-      "DebugActionIndex": 280
+      "DebugActionIndex": 295
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb",
@@ -18589,7 +19318,7 @@
       "ToBuildDependencies": [
         193
       ],
-      "DebugActionIndex": 281
+      "DebugActionIndex": 296
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.Editor.dll",
@@ -18603,7 +19332,7 @@
       "ToBuildDependencies": [
         199
       ],
-      "DebugActionIndex": 282
+      "DebugActionIndex": 297
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.Timeline.Editor.pdb",
@@ -18617,7 +19346,7 @@
       "ToBuildDependencies": [
         199
       ],
-      "DebugActionIndex": 283
+      "DebugActionIndex": 298
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll",
@@ -18631,7 +19360,7 @@
       "ToBuildDependencies": [
         205
       ],
-      "DebugActionIndex": 284
+      "DebugActionIndex": 299
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.pdb",
@@ -18645,7 +19374,7 @@
       "ToBuildDependencies": [
         205
       ],
-      "DebugActionIndex": 285
+      "DebugActionIndex": 300
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll",
@@ -18659,7 +19388,7 @@
       "ToBuildDependencies": [
         211
       ],
-      "DebugActionIndex": 286
+      "DebugActionIndex": 301
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.pdb",
@@ -18673,7 +19402,7 @@
       "ToBuildDependencies": [
         211
       ],
-      "DebugActionIndex": 287
+      "DebugActionIndex": 302
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll",
@@ -18687,7 +19416,7 @@
       "ToBuildDependencies": [
         216
       ],
-      "DebugActionIndex": 288
+      "DebugActionIndex": 303
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.pdb",
@@ -18701,7 +19430,7 @@
       "ToBuildDependencies": [
         216
       ],
-      "DebugActionIndex": 289
+      "DebugActionIndex": 304
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.dll",
@@ -18715,7 +19444,7 @@
       "ToBuildDependencies": [
         223
       ],
-      "DebugActionIndex": 290
+      "DebugActionIndex": 305
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.pdb",
@@ -18729,7 +19458,7 @@
       "ToBuildDependencies": [
         223
       ],
-      "DebugActionIndex": 291
+      "DebugActionIndex": 306
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll",
@@ -18743,7 +19472,7 @@
       "ToBuildDependencies": [
         228
       ],
-      "DebugActionIndex": 292
+      "DebugActionIndex": 307
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.pdb",
@@ -18757,7 +19486,7 @@
       "ToBuildDependencies": [
         228
       ],
-      "DebugActionIndex": 293
+      "DebugActionIndex": 308
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll",
@@ -18771,7 +19500,7 @@
       "ToBuildDependencies": [
         235
       ],
-      "DebugActionIndex": 294
+      "DebugActionIndex": 309
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.pdb",
@@ -18785,7 +19514,7 @@
       "ToBuildDependencies": [
         235
       ],
-      "DebugActionIndex": 295
+      "DebugActionIndex": 310
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll",
@@ -18799,7 +19528,7 @@
       "ToBuildDependencies": [
         240
       ],
-      "DebugActionIndex": 296
+      "DebugActionIndex": 311
     },
     {
       "Annotation": "CopyFiles Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.pdb",
@@ -18813,7 +19542,35 @@
       "ToBuildDependencies": [
         240
       ],
-      "DebugActionIndex": 297
+      "DebugActionIndex": 312
+    },
+    {
+      "Annotation": "CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "Library/ScriptAssemblies/Assembly-CSharp.dll"
+      ],
+      "ToBuildDependencies": [
+        246
+      ],
+      "DebugActionIndex": 313
+    },
+    {
+      "Annotation": "CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/2400b0aE.dag/Assembly-CSharp.pdb"
+      ],
+      "Outputs": [
+        "Library/ScriptAssemblies/Assembly-CSharp.pdb"
+      ],
+      "ToBuildDependencies": [
+        246
+      ],
+      "DebugActionIndex": 314
     }
   ],
   "FileSignatures": [
