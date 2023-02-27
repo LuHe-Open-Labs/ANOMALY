@@ -52,7 +52,7 @@ The ANOMALY project will be developed in multiple phases, with key milestones at
 
 ## Budget and Resources 💰
 
-The ANOMALY project will be funded by grants, investments, and community contributions. Required resources include:
+The ANOMALY project will be funded only by grants and community contributions. Required resources include:
 
 + Software developers: for platform design, development, and maintenance. 👨‍💻👩‍💻
 + Biology and ecology experts: to advise on environment and organism modeling. 🌿🌳🐾
