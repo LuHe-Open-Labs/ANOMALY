@@ -7,7 +7,6 @@ public class SolarSystem : MonoBehaviour
     readonly float G = 0.000295912f;
     public GameObject[] celestials;
 
-
     // Start is called before the first frame update
     void Start()
     {
